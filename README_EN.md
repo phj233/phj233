@@ -70,16 +70,12 @@ val phj233 = Developer(
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td><img src="https://img.shields.io/badge/-🌱 Learning-Go%20+%20Gin%20+%20React-4FC08D?style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/-🔭 Building-AI%20Model%20API%20Relay-1F6FEB?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-💬 Ask%20Me-Tech%20Topics-7F52FF?style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/-⚡ Powered%20By-OpenCode%20+%20MiMo-F05032?style=flat-square" /></td>
-  </tr>
-</table>
+```
+🌱 Learning: Go + Gin + React
+🔭 Building: Company's Mainland China AI model API relay project
+💬 Ask Me: Tech topics
+⚡ Powered By: OpenCode + MiMo-V2.5-Pro
+```
 
 <br/>
 
