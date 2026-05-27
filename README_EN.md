@@ -1,90 +1,108 @@
 <div align="center">
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+phj233+%F0%9F%91%8B;Code+is+poetry+%E2%9C%A8;Always+learning%2C+always+building)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:7F52FF&height=220&section=header&text=phj233&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Open%20Source%20Enthusiast&descSize=17&descAlignY=55&descAlign=50" width="100%"/>
 
 **English | [中文](./README.md)**
 
 </div>
 
----
+<br/>
 
-### 🚀 About Me
+> Code is like poetry, except the compiler doesn't give you emotional feedback.
 
-```javascript
-const phj233 = {
-    pronouns: "He/Him",
-    skills: ["Kotlin", "TypeScript", "Go", "Vue", "Java", "Python"],
-    expertise: ["Backend Dev", "Full-stack Projects", "Open Source"],
-    currentGoal: "Building things that matter",
-    funFact: "I debug with console.log and I'm not ashamed 🐛"
-};
+```kotlin
+val phj233 = Developer(
+    name = "phj233",
+    location = "China 🇨🇳",
+    currentFocus = "Go + Gin + React",
+    workingOn = "AI Model API Relay Project",
+    askMeAbout = listOf("Backend", "Full-stack", "Open Source"),
+    reachMeAt = "2780990934@qq.com"
+)
 ```
 
----
+<br/>
 
-### 🛠️ Tech Stack
+### Tech Stack
+
+<br/>
 
 <div align="center">
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<!-- Backend -->
+<img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="30"/>
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30"/>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
 
 </div>
 
+<br/>
+
+### GitHub Stats
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phj233&show_icons=true&theme=vue-dark&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phj233&layout=compact&theme=vue-dark&hide_border=true&hide=css"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phj233&theme=vue-dark&hide_border=true" width="70%"/>
+</div>
+
+<br/>
+
+### What I'm Up To
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td><img src="https://img.shields.io/badge/-🌱 Learning-Go%20+%20Gin%20+%20React-4FC08D?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/-🔭 Building-AI%20Model%20API%20Relay-1F6FEB?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-💬 Ask%20Me-Tech%20Topics-7F52FF?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/-⚡ Powered%20By-OpenCode%20+%20MiMo-F05032?style=flat-square" /></td>
+  </tr>
+</table>
+
+<br/>
+
 ---
 
-### 📊 GitHub Stats
+<br/>
 
 <div align="center">
 
-![phj233's GitHub stats](https://github-readme-stats.vercel.app/api?username=phj233&theme=vue-dark&show_icons=true&count_private=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phj233&theme=vue-dark&hide=css&layout=compact&card_width=470&hide_border=true)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phj233)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2780990934@qq.com)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.phj233.top)
 
 </div>
 
----
-
-### 🎯 Current Status
+<br/>
 
 <div align="center">
-
-```
-🌱 Currently learning: Go + Gin + React
-🔭 Working on: Company's Mainland China AI model API relay project, unified OpenAI interface
-💬 Ask me about: Anything tech
-⚡ Fun fact: This README was crafted with OpenCode + MiMo-V2.5-Pro
-```
-
+  <img src="https://komarev.com/ghpvc/?username=phj233&color=blueviolet&style=flat-square" />
 </div>
 
----
+<br/>
 
 <div align="center">
-
-### 🤝 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/phj233)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:2780990934@qq.com)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=phj233&color=blueviolet&style=flat-square)
-
-**"Talk is cheap. Show me the code."** —— Linus Torvalds
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:7F52FF&height=120&section=footer" width="100%"/>
 </div>
