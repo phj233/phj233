@@ -1,29 +1,29 @@
 <div align="center">
 
-<!-- 动态打字效果 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=%E5%97%A8%EF%BC%8C%E6%88%91%E6%98%AF+phj233+%F0%9F%91%8B;%E4%BB%A3%E7%A0%81%E5%8D%B3%E8%AF%97%E6%AD%8C+%E2%9C%A8;%E6%B0%B8%E8%BF%9C%E5%9C%A8%E5%AD%A6%E4%B9%A0%EF%BC%8C%E6%B0%B8%E8%BF%9C%E5%9C%A8%E5%88%9B%E9%80%A0)](https://git.io/typing-svg)
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+phj233+%F0%9F%91%8B;Code+is+poetry+%E2%9C%A8;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
-**[English](./README_EN.md) | 中文**
+**English | [中文](./README.md)**
 
 </div>
 
 ---
 
-### 🚀 关于我
+### 🚀 About Me
 
 ```javascript
 const phj233 = {
     pronouns: "He/Him",
     skills: ["Kotlin", "TypeScript", "Go", "Vue", "Java", "Python"],
-    expertise: ["Backend Dev | 后端开发", "Full-stack Projects | 全栈项目", "Open Source | 开源贡献"],
-    currentGoal: "Building things that matter | 做点有意义的事",
+    expertise: ["Backend Dev", "Full-stack Projects", "Open Source"],
+    currentGoal: "Building things that matter",
     funFact: "I debug with console.log and I'm not ashamed 🐛"
 };
 ```
 
 ---
 
-### 🛠️ 技术栈
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -43,7 +43,7 @@ const phj233 = {
 
 ---
 
-### 📊 GitHub 数据
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -55,15 +55,15 @@ const phj233 = {
 
 ---
 
-### 🎯 当前状态
+### 🎯 Current Status
 
 <div align="center">
 
 ```
-🌱 正在学习: Go + Gin + React
-🔭 正在开发: 公司的国内 AI 模型 API 中转项目，统一 OpenAI 接口
-💬 欢迎交流: 任何技术话题
-⚡ 趣事: 这个 README 是用 OpenCode + MiMo-V2.5-Pro 打造的
+🌱 Currently learning: Go + Gin + React
+🔭 Working on: Company's Mainland China AI model API relay project, unified OpenAI interface
+💬 Ask me about: Anything tech
+⚡ Fun fact: This README was crafted with OpenCode + MiMo-V2.5-Pro
 ```
 
 </div>
@@ -72,7 +72,7 @@ const phj233 = {
 
 <div align="center">
 
-### 🤝 联系我
+### 🤝 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/phj233)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:2780990934@qq.com)
