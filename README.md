@@ -39,7 +39,7 @@ val phj233 = Developer(
 <!-- 前端 -->
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=61DAFB&labelColor=61DAFB" height="30"/>
 
 <!-- 工具 -->
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
@@ -72,9 +72,11 @@ val phj233 = Developer(
 
 ```
 🌱 学习: Go + Gin + React
-🔭 开发: 公司的国内 AI 模型 API 中转项目，统一 OpenAI 接口
+🔭 开发: 公司的国内 AI 模型 API 中转项目，统一 OpenAI 接口；漫剧工作流多模型多供应商；
 💬 交流: 技术话题
-⚡ 工具: OpenCode + MiMo-V2.5-Pro
+⚡  工具: Codex + GPT 5.5-xhigh 
+       Claude Code + OpenCode + [MiMo-V2.5-Pro & Deepseek-V4]
+       IntelliJ IDEA + VSCode
 ```
 
 <br/>
