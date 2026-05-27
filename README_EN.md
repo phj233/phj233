@@ -53,16 +53,22 @@ val phj233 = Developer(
 
 <br/>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phj233&show_icons=true&theme=vue-dark&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phj233&layout=compact&theme=vue-dark&hide_border=true&hide=css"/>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Repos-30-1F6FEB?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/phj233/phj233?style=flat-square&logo=github&color=FBBF24&label=Stars" />
+  <img src="https://img.shields.io/github/followers/phj233?style=flat-square&logo=github&color=7F52FF&label=Followers" />
+</p>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phj233&theme=vue-dark&hide_border=true" width="70%"/>
-</div>
+<p>
+  <img src="https://github-readme-stats-rosy-delta.vercel.app/api?username=phj233&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats-rosy-delta.vercel.app/api/top-langs/?username=phj233&layout=compact&theme=vue-dark&hide_border=true&hide=css" width="49%" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phj233&theme=vue-dark&hide_border=true" width="100%" />
+</p>
 
 <br/>
 
