@@ -15,7 +15,7 @@ val phj233 = Developer(
     name = "phj233",
     location = "China 🇨🇳",
     currentFocus = "Go + Gin + React",
-    workingOn = "AI 模型 API 中转项目",
+    workingOn = "AI 模型 API 中转项目 + 漫剧工作流支持多模型多供应商熔断降级",
     askMeAbout = listOf("后端", "全栈", "开源"),
     reachMeAt = "2780990934@qq.com"
 )

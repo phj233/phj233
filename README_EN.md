@@ -82,9 +82,11 @@ val phj233 = Developer(
 
 ```
 🌱 Learning: Go + Gin + React
-🔭 Building: Company's Mainland China AI model API relay project
+🔭 Building: Company's domestic AI model API relay, unified OpenAI interface; Comic workflow with multi-model multi-vendor;
 💬 Ask Me: Tech topics
-⚡ Powered By: OpenCode + MiMo-V2.5-Pro
+⚡  Tools: Codex + GPT 5.5-xhigh 
+       Claude Code + OpenCode + [MiMo-V2.5-Pro & Deepseek-V4]
+       IntelliJ IDEA + VSCode
 ```
 
 <br/>
