@@ -55,7 +55,7 @@ val phj233 = Developer(
 
 <p>
   <img src="https://img.shields.io/badge/Repos-30-1F6FEB?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/phj233?style=flat-square&logo=github&color=FBBF24&label=Stars" />
+  <img src="https://img.shields.io/github/stars/phj233/phj233?style=flat-square&logo=github&color=FBBF24&label=Stars" />
   <img src="https://img.shields.io/github/followers/phj233?style=flat-square&logo=github&color=7F52FF&label=Followers" />
 </p>
 
