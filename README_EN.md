@@ -8,8 +8,6 @@
 
 <br/>
 
-> Code is like poetry, except the compiler doesn't give you emotional feedback.
-
 ```kotlin
 val phj233 = Developer(
     name = "phj233",
@@ -54,24 +52,23 @@ val phj233 = Developer(
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Repos-30-1F6FEB?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/phj233/phj233?style=flat-square&logo=github&color=FBBF24&label=Stars" />
-  <img src="https://img.shields.io/github/followers/phj233?style=flat-square&logo=github&color=7F52FF&label=Followers" />
+  <img src="https://img.shields.io/badge/Repos-30-1F6FEB?style=flat-square&logo=github&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/github/stars/phj233?style=flat-square&logo=github&color=FBBF24&label=Stars" height="20"/>
+  <img src="https://img.shields.io/github/followers/phj233?style=flat-square&logo=github&color=7F52FF&label=Followers" height="20"/>
 </p>
 
 <br/>
 
 <p>
-  <img src="https://phj233.github.io/phj233/contributions.svg" width="100%" />
+  <img src="https://github-readme-stats-rosy-delta.vercel.app/api?username=phj233&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&card_width=400" width="44%" />
+  <img src="https://github-readme-stats-rosy-delta.vercel.app/api/top-langs/?username=phj233&layout=compact&theme=vue-dark&hide_border=true&hide=css&card_width=400" width="44%" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats-rosy-delta.vercel.app/api?username=phj233&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats-rosy-delta.vercel.app/api/top-langs/?username=phj233&layout=compact&theme=vue-dark&hide_border=true&hide=css" width="49%" />
-</p>
+<br/>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phj233&theme=vue-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phj233&theme=vue-dark&hide_border=true" width="44%" height="195" />
+  <img src="https://phj233.github.io/phj233/contributions.svg" width="44%" height="195" />
 </p>
 
 <br/>

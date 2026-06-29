@@ -1,0 +1,16 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+
+# AI Tools
+.cursor/
+.windsurf/
+
+# OS
+.DS_Store
+Thumbs.db
